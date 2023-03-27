@@ -66,4 +66,24 @@ letter-spacing: 0.5rem;
 }
 .section{
      text-align: center;
+     padding: 1.5rem 2rem;
 }
+.section-light{
+
+     background-color: #f1f1f1;
+     color: #6e787c;
+     line-height: 1.8rem;
+}
+.section-dark{
+
+     background-color: #282e34;
+     color: #e1ded8;
+     line-height: 1.8rem;
+
+}
+@media (max-width: 768px) {
+  .heading-container {
+    font-size: 1.5rem;
+    letter-spacing: 0.5rem;
+  }
+
