@@ -86,4 +86,23 @@ letter-spacing: 0.5rem;
     font-size: 1.5rem;
     letter-spacing: 0.5rem;
   }
+  @media (max-width: 768px){
+.heading-container{
+     font-size: 1.5rem;
+     letter-spacing: 0.5rem;
+}
+
+  }
+  .heading-container_heading{
+
+padding: 0.7rem;
+border-top-left-radius: 1rem;
+border-top-right-radius: 1rem;
+     outline: 0.5rem inset purple;
+     outline-offset: 1rem; 
+  }
+  
+
+     
+  
 
