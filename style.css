@@ -54,6 +54,16 @@ letter-spacing: 0.5rem;
 .heading-container--logo{
      width: 30%;
 }
-.heading-container--logo{
-     width: 30%;
+.heading-container--text{
+     background-color: #1c1e1f;
+     color: #fdfbf7; 
+     padding: 0.7rem;
+     text-transform: capitalize;
+     border-radius: 0.7rem 0rem ;
+      outline: 0.4rem inset purple;
+     outline-offset: 0.2rem;
+     
+}
+.section{
+     text-align: center;
 }
