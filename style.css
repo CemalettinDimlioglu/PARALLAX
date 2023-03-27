@@ -32,6 +32,15 @@ color: #666666;
     opacity: 0.9;
 }
 .heading-container{
+text-align: center;
+top: 50%;
+position: absolute;
+width: 100%;
+font-size: 3rem;
+text-transform: uppercase;
+letter-spacing: 0.5rem;
 
-     
+}
+.heading-container_heading{
+     background-color: #1c1e1f;
 }
