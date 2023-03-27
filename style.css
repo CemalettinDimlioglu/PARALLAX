@@ -45,4 +45,7 @@ letter-spacing: 0.5rem;
      background-color: #1c1e1f;
      color: #fdfbf7;
      padding: 2rem;
+     border-top-left-radius:2rem ;
+     border-top-right-radius:2rem ;
+     
 }
