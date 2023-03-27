@@ -47,5 +47,13 @@ letter-spacing: 0.5rem;
      padding: 2rem;
      border-top-left-radius:2rem ;
      border-top-right-radius:2rem ;
+     outline: 0.5rem inset purple;
+     outline-offset: 1rem;
      
+}
+.heading-container--logo{
+     width: 30%;
+}
+.heading-container--logo{
+     width: 30%;
 }
